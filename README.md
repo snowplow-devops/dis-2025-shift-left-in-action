@@ -10,7 +10,7 @@ _Note_: Most of the instructions expect macOS and a laptop powerful enough to ru
   - Bonus points for grabbing the latest Micro version ahead-of-time with `docker pull snowplow/snowplow-micro:latest`!
 * [Snowtype](https://docs.snowplow.io/docs/data-product-studio/snowtype/): We will be using Snowtype to generate code for tracking integration
 * [npm & node](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm): We will be setting up a local demo site to instrument tracking against
-  - Bonus points if you install the [demo site](https://github.com/jkersu/snowplow-demo-site) ahead of time and get it running
+  - Bonus points if you install the [demo site](https://github.com/snowplow-devops/dis-2025-demo-site) ahead of time and get it running
 
 ## Useful links
 
